@@ -64,6 +64,3 @@ Despite careful curation, the dataset has several inherent limitations:
 - **Privileging canonical works:** metadata is primarily derived from the Electronic Literature Collection.
 
 These limitations reflect broader challenges in digital preservation and electronic literature studies.
-
-
-# Case Study
