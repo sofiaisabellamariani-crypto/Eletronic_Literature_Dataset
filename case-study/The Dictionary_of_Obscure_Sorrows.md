@@ -100,24 +100,24 @@ These taxonomies encourage **semantic wandering** and **conceptual clustering**,
 
 ## Narratology
 
-Applying narratology to this work is challenging because *The Dictionary of Obscure Sorrows* is **not narrative**. Still, narratological tools illuminate aspects of its structure.
+Applying narratology to *The Dictionary of Obscure Sorrows* is inherently challenging, because the work is **not a narrativ** in the traditional sense. It does not present characters, plot, or temporal progression. However, narratological tools can still illuminate how meaning is produced through voice, segmentation, and perspective. In this sense, narratology becomes a way to understand the **micro‑scenes** and **emotional vignettes** constructed by each entry.
 
 ### Narrator / Narrative Voice
 
 The voice is:
 
-- **Authorial**, since Koenig defines each term. 
-- **Poetic**, blending dictionary precision with lyrical prose.
-- **Quasi‑omniscient**, describing universal human emotions.  
-- **Impersonal yet intimate**, addressing the reader directly.
+- **authorial**, since Koenig defines each term  
+- **poetic**, blending dictionary precision with lyrical prose  
+- **quasi‑omniscient**, describing universal human emotions  
+- **impersonal yet intimate**, addressing the reader directly  
 
-There is no character‑based narrator; the voice functions as a **philosophical observer**.
+There is no character‑based narrator. Instead, the voice functions as a **philosophical observer**, guiding the reader through emotional concepts rather than through events.
 
 ### Narrative Time
 
 There is no plot, but time appears conceptually:
 
-- Definitions describe **atemporal** emotional states.  
+- Definitions describe **atemporal** emotional states-  
 - Some entries evoke temporal metaphors (nostalgia, anticipation, memory).
 
 Classical narratological categories (order, duration, frequency) do not apply meaningfully.
@@ -126,22 +126,29 @@ Classical narratological categories (order, duration, frequency) do not apply me
 
 Focalization is **external and universalized**.  
 The text often addresses “you,” “we,” or humanity in general, creating a collective emotional perspective.
+The focalization is not tied to a character but to a shared human condition.
 
 ### Segmentation / Pacing
 
 Segmentation is:
 
-- **Lexical** (each entry = one unit)
-- **Non‑hierarchical**  
-- **Reader‑determined**  
+- **Lexical:** each entry is a self‑contained unit.
+- **Non‑hierarchical:** no entry is more “central” than another.
+- **Reader‑determined:** the reader chooses the order, duration, and rhythm of reading.  
 
-Pacing depends entirely on the reader, who may read one entry or dozens in a single session.
+Pacing is entirely controlled by the reader, who may read a single entry in isolation or drift through dozens in a single session. The structure resembles a database more than a narrative sequence.
 
 ### Does narratology fit?
 
 Only partially.  
 The work is a **conceptual lexicon**, not a narrative.  
 Narratology helps describe voice and segmentation, but plot‑based categories are only metaphorically applicable.
+
+- **The voice** that shapes each definition.
+- **The focalization** that constructs a universal emotional viewpoint.
+- **The segmentation** that structures the reading experience.
+
+In this sense, narratology helps explain how the dictionary creates micro‑worlds of meaning, even without telling stories.
 
 ---
 
